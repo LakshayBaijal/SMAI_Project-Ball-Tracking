@@ -6,7 +6,9 @@
 https://www.kaggle.com/datasets/svmohitkumar/smai-project-dataset
 ```
 
-else 
+# else
+
+
 Run python codes {Found in codes/dataset_generation -
 
 - download_dataset.py
