@@ -12,8 +12,11 @@ Run python codes {Found in codes/dataset_generation -
 - convert_ball_to_yolo.py
 
 Download_Dataset.py will download data from TTNet official site ( 120 + FPS, around 40 GB)
+
 extract_all_images.py will extract all frames from TTNet video that was downloaded. 
+
 extract_selected_images.py will extract selected frames from TTNet video that was downloaded.
+
 convert_ball_to_yolo.py will change from JSON format to YOLO data labels and images.
 
 
