@@ -1,5 +1,6 @@
-## After Training
-### Ball Tracking samples
+## SMAI Project
+
+### Ball Tracking Results.
 
 https://github.com/user-attachments/assets/f7501964-5db0-43c4-8fa5-f4a58084c32e
 
