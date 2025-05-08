@@ -1,5 +1,11 @@
 ## SMAI Project
 
+### Youtube Implementation Video
+
+```bash
+https://www.youtube.com/watch?v=s2lVYqKBQPE
+```
+
 ### Ball Tracking Results.
 
 https://github.com/user-attachments/assets/f7501964-5db0-43c4-8fa5-f4a58084c32e
