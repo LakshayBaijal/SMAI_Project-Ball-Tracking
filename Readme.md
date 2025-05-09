@@ -18,17 +18,26 @@ https://github.com/user-attachments/assets/a6eb28c6-14dd-4069-aa4a-199b15a84319
 
 - **Dataset**: TTNet dataset, which provides JSON-based annotations for table tennis ball positions in each frame.
 - **Focus**: Only the **ball** is detected (no table or player detection).
-- **Conversion**:
-  - A custom Python script (`convert_ball_to_yolo.py`) was written to convert JSON annotations into YOLO format: `.txt` files with class ID and normalized coordinates.
-  - Directory structure:
+- **Directory Structure**:
     ```
     yolo_dataset/
     ├── images/
     │   ├── train/
     │   └── val/
     └── labels/
-        ├── train/
-        └── val/
+    │   ├── train/
+    │   └── val/
+    ├── ball_analysis.py
+    ├── classes.txt
+    ├── track_ball.py
+    ├── ttnet_ball.yaml
+    ├── yolov8n.pt
+    ├── Dataset_Generation/
+        ├── download_dataset.py
+        ├── extract_all_images.py
+        └── extract_selected_images.py
+    └── convert_ball_to_yolo.py
+    
     ```
 
 ---
