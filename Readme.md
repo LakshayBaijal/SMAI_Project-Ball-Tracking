@@ -18,7 +18,9 @@ https://github.com/user-attachments/assets/a6eb28c6-14dd-4069-aa4a-199b15a84319
 
 - **Dataset**: TTNet dataset, which provides JSON-based annotations for table tennis ball positions in each frame.
 - **Focus**: Only the **ball** is detected (no table or player detection).
-- **Directory Structure**:
+
+
+## 📁 Directory Structure:
     ```
     yolo_dataset/
     ├── images/
