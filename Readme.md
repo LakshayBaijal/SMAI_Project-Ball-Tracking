@@ -44,5 +44,5 @@ https://github.com/user-attachments/assets/a6eb28c6-14dd-4069-aa4a-199b15a84319
 ## 🔍 Inference
 - **Command**:
   ```bash
-yolo predict model=TTBallProject/ball_yolo_model/weights/best.pt source=videos/TT1.mp4 conf=0.25 save=True
+  yolo predict model=TTBallProject/ball_yolo_model/weights/best.pt source=videos/TT1.mp4 conf=0.25 save=True
   ```
