@@ -1,6 +1,6 @@
 ## SMAI Project
 
-### Youtube Implementation Video
+### Youtube Video
 
 ```bash
 https://www.youtube.com/watch?v=s2lVYqKBQPE
